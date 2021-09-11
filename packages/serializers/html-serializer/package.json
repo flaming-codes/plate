@@ -1,6 +1,6 @@
 {
   "name": "@udecode/plate-html-serializer",
-  "version": "2.0.0",
+  "version": "3.1.3",
   "description": "HTML serializer plugin for Plate",
   "keywords": [
     "slate",
